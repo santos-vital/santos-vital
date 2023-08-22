@@ -1,11 +1,15 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=santos-vital&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=santos-vital&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=santos-vital&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2 align="center">Olá 👋! Sou Leandro...<br>E estou atualmente desenvolvendo minhas habilidade em projetos com JavaScript, CSS, HTML e React.JS</h2>
 
-# 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning JavaScript and React<br>💬 Ask me about anything, I'm happy to help!
+<div align="center">
+  <img src="https://profile-counter.glitch.me/santos-vital/count.svg?"  />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&username=santos-vital" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&username=santos-vital" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leandro-vital/) 
@@ -21,6 +25,9 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+# 💫 About Me:
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning JavaScript and React<br>💬 Ask me about anything, I'm happy to help!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=santos-vital&icon=0&color=12)](https://visitcount.itsvg.in)
