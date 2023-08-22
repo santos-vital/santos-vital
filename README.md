@@ -1,3 +1,6 @@
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=santos-vital&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>🌱 I’m currently learning JavaScript and React<br>💬 Ask me about anything, I'm happy to help!
 
@@ -17,9 +20,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=santos-vital&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
